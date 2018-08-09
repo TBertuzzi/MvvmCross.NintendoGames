@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56166afa-ee07-4f35-b55b-f09a15ef39dd" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Assets/AboutAssets.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/MainActivity.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/MvvmCross.NintendoGames.Android.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Properties/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/AboutResources.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/Resource.designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/layout/Tabbar.axml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/layout/Toolbar.axml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-anydpi-v26/icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-anydpi-v26/icon_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-hdpi/Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-hdpi/launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-mdpi/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-mdpi/launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-xhdpi/Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-xhdpi/launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-xxhdpi/Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-xxhdpi/launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-xxxhdpi/Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-xxxhdpi/launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/App.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/MvvmCross.NintendoGames.Core.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/ViewModels/GamesViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Infrastructure/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Infrastructure/MvvmCross.NintendoGames.Infrastructure.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/AppDelegate.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon167.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Entitlements.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Main.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/MvvmCross.NintendoGames.iOS.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Resources/Default-568h@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Resources/Default-Portrait.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Resources/Default-Portrait@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Resources/Default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Resources/Default@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Resources/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames/MainPage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames/MainPage.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames/MvvmCross.NintendoGames.csproj" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="App.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/App.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+              <folding>
+                <marker date="1533819923179" expanded="true" signature="6:109" ph="..." />
+                <marker date="1533819923179" expanded="true" signature="149:457" ph="{...}" />
+                <marker date="1533819923179" expanded="true" signature="189:455" ph="{...}" />
+                <marker date="1533819923179" expanded="true" signature="237:449" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.xaml.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames/App.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1533815970373" expanded="false" signature="6:60" ph="..." />
+                <marker date="1533815970373" expanded="true" signature="155:650" ph="{...}" />
+                <marker date="1533815970373" expanded="true" signature="200:648" ph="{...}" />
+                <marker date="1533815970373" expanded="true" signature="227:322" ph="{...}" />
+                <marker date="1533815970373" expanded="true" signature="365:428" ph="{...}" />
+                <marker date="1533815970373" expanded="true" signature="471:534" ph="{...}" />
+                <marker date="1533815970373" expanded="true" signature="578:642" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GamesViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/ViewModels/GamesViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+              <folding>
+                <marker date="1533820070377" expanded="true" signature="6:92" ph="..." />
+                <marker date="1533820070377" expanded="true" signature="143:554" ph="{...}" />
+                <marker date="1533820070377" expanded="true" signature="192:552" ph="{...}" />
+                <marker date="1533820070377" expanded="true" signature="314:372" ph="{...}" />
+                <marker date="1533820070377" expanded="true" signature="450:546" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/ViewModels/GamesViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvvmCross.NintendoGames/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/App.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/App.cs" />
+        <option value="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/ViewModels/GamesViewModel.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1441" />
+    <option name="y" value="65" />
+    <option name="width" value="1486" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="0 - Core" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="0 - Core" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MvvmCross.NintendoGames.Core" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="0 - Core" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MvvmCross.NintendoGames.Core" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ViewModels" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="1 - Application" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="1 - Application" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MvvmCross.NintendoGames" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="1 - Application" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MvvmCross.NintendoGames" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="App.xaml" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="2 - Infrastructure" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="2 - Infrastructure" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MvvmCross.NintendoGames.Infrastructure" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="3 - EntryPoints" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="3 - EntryPoints" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MvvmCross.NintendoGames.Android" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="3 - EntryPoints" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MvvmCross.NintendoGames.iOS" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Xamarin.Android.Android Default">
+    <configuration name="Android Default" type="XamarinAndroidProject" factoryName="Xamarin.Android">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="DEPLOY_BEHAVIOUR_NAME" value="Default" />
+      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Ask" />
+      <option name="DEFAULT_EMULATOR_TO_RUN" value="" />
+      <option name="DEFAULT_DEVICE_TO_RUN" value="" />
+    </configuration>
+    <configuration name="iOS Default" type="XamarinIOSProject" factoryName="Xamarin.iOS">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="DEFAULT_IPHONE_DEVICE" value="" />
+      <option name="DEFAULT_IPHONE_SIMULATOR" value="" />
+      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Ask" />
+    </configuration>
+    <list>
+      <item itemvalue="Xamarin.Android.Android Default" />
+      <item itemvalue="Xamarin.iOS.iOS Default" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56166afa-ee07-4f35-b55b-f09a15ef39dd" name="Default" comment="" />
+      <created>1533816910010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533816910010</updated>
+      <workItem from="1533816912850" duration="1012000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1012000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1441" y="65" width="1486" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info active="true" anchor="right" content_ui="combo" x="2523" y="161" width="360" height="755" id="Project" order="5" visible="true" weight="0.2422611" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/ViewModels/GamesViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <marker date="1533820070377" expanded="true" signature="6:92" ph="..." />
+            <marker date="1533820070377" expanded="true" signature="143:554" ph="{...}" />
+            <marker date="1533820070377" expanded="true" signature="192:552" ph="{...}" />
+            <marker date="1533820070377" expanded="true" signature="314:372" ph="{...}" />
+            <marker date="1533820070377" expanded="true" signature="450:546" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/App.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <folding>
+            <marker date="1533819923179" expanded="true" signature="6:109" ph="..." />
+            <marker date="1533819923179" expanded="true" signature="149:457" ph="{...}" />
+            <marker date="1533819923179" expanded="true" signature="189:455" ph="{...}" />
+            <marker date="1533819923179" expanded="true" signature="237:449" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1533815970373" expanded="false" signature="6:60" ph="..." />
+            <marker date="1533815970373" expanded="true" signature="155:650" ph="{...}" />
+            <marker date="1533815970373" expanded="true" signature="200:648" ph="{...}" />
+            <marker date="1533815970373" expanded="true" signature="227:322" ph="{...}" />
+            <marker date="1533815970373" expanded="true" signature="365:428" ph="{...}" />
+            <marker date="1533815970373" expanded="true" signature="471:534" ph="{...}" />
+            <marker date="1533815970373" expanded="true" signature="578:642" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
