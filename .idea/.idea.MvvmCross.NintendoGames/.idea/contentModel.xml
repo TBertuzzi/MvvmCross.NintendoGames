@@ -31,8 +31,6 @@
         <e p="App.xaml" t="Include" />
         <e p="App.xaml.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="MainPage.xaml" t="Include" />
-        <e p="MainPage.xaml.cs" t="Include" />
         <e p="MvvmCross.NintendoGames.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -40,6 +38,10 @@
               <e p="MvvmCross.NintendoGames.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
+        </e>
+        <e p="Views" t="Include">
+          <e p="GamesPage.xaml" t="Include" />
+          <e p="GamesPage.xaml.cs" t="Include" />
         </e>
       </e>
       <e p="MvvmCross.NintendoGames.Android" t="IncludeRecursive">
@@ -99,6 +101,9 @@
       <e p="MvvmCross.NintendoGames.Core" t="IncludeRecursive">
         <e p="App.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="Game.cs" t="Include" />
+        </e>
         <e p="MvvmCross.NintendoGames.Core.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -107,13 +112,16 @@
             </e>
           </e>
         </e>
+        <e p="Services" t="Include">
+          <e p="INintendoService.cs" t="Include" />
+          <e p="NintendoService.cs" t="Include" />
+        </e>
         <e p="ViewModels" t="Include">
           <e p="GamesViewModel.cs" t="Include" />
         </e>
       </e>
       <e p="MvvmCross.NintendoGames.Infrastructure" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
-        <e p="Class1.cs" t="Include" />
         <e p="MvvmCross.NintendoGames.Infrastructure.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">

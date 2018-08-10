@@ -2,67 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56166afa-ee07-4f35-b55b-f09a15ef39dd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Assets/AboutAssets.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/MainActivity.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/MvvmCross.NintendoGames.Android.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Properties/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/AboutResources.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/Resource.designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/layout/Tabbar.axml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/layout/Toolbar.axml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-anydpi-v26/icon.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-anydpi-v26/icon_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-hdpi/Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-hdpi/launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-mdpi/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-mdpi/launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-xhdpi/Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-xhdpi/launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-xxhdpi/Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-xxhdpi/launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-xxxhdpi/Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/mipmap-xxxhdpi/launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Android/Resources/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/App.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/MvvmCross.NintendoGames.Core.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/ViewModels/GamesViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Infrastructure/Class1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Infrastructure/MvvmCross.NintendoGames.Infrastructure.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/AppDelegate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon167.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Assets.xcassets/AppIcon.appiconset/Icon87.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Entitlements.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Main.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/MvvmCross.NintendoGames.iOS.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Resources/Default-568h@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Resources/Default-Portrait.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Resources/Default-Portrait@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Resources/Default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Resources/Default@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/Resources/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames/App.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames/MainPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames/MainPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames/MvvmCross.NintendoGames.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/Models/Game.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/Services/INintendoService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/Services/NintendoService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MvvmCross.NintendoGames/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MvvmCross.NintendoGames/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MvvmCross.NintendoGames/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MvvmCross.NintendoGames/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/MvvmCross.NintendoGames.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/MvvmCross.NintendoGames.Core.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/ViewModels/GamesViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/ViewModels/GamesViewModel.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -72,14 +18,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="App.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/App.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+            <state relative-caret-position="180">
+              <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
               <folding>
-                <marker date="1533819923179" expanded="true" signature="6:109" ph="..." />
+                <marker date="1533819923179" expanded="false" signature="6:109" ph="..." />
                 <marker date="1533819923179" expanded="true" signature="149:457" ph="{...}" />
                 <marker date="1533819923179" expanded="true" signature="189:455" ph="{...}" />
                 <marker date="1533819923179" expanded="true" signature="237:449" ph="{...}" />
@@ -88,34 +34,82 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.xaml.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.xaml.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames/App.xaml.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="210">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
               <folding>
-                <marker date="1533815970373" expanded="false" signature="6:60" ph="..." />
-                <marker date="1533815970373" expanded="true" signature="155:650" ph="{...}" />
-                <marker date="1533815970373" expanded="true" signature="200:648" ph="{...}" />
-                <marker date="1533815970373" expanded="true" signature="227:322" ph="{...}" />
-                <marker date="1533815970373" expanded="true" signature="365:428" ph="{...}" />
-                <marker date="1533815970373" expanded="true" signature="471:534" ph="{...}" />
-                <marker date="1533815970373" expanded="true" signature="578:642" ph="{...}" />
+                <marker date="1533822624829" expanded="false" signature="6:60" ph="..." />
+                <marker date="1533822624829" expanded="true" signature="155:611" ph="{...}" />
+                <marker date="1533822624829" expanded="true" signature="200:609" ph="{...}" />
+                <marker date="1533822624829" expanded="true" signature="227:283" ph="{...}" />
+                <marker date="1533822624829" expanded="true" signature="326:389" ph="{...}" />
+                <marker date="1533822624829" expanded="true" signature="432:495" ph="{...}" />
+                <marker date="1533822624829" expanded="true" signature="539:603" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GamesViewModel.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="INintendoService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/Services/INintendoService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <marker date="1533924392762" expanded="true" signature="6:89" ph="..." />
+                <marker date="1533924392762" expanded="true" signature="138:289" ph="{...}" />
+                <marker date="1533924392762" expanded="true" signature="178:287" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GamesViewModel.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/ViewModels/GamesViewModel.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            <state relative-caret-position="330">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
               <folding>
-                <marker date="1533820070377" expanded="true" signature="6:92" ph="..." />
-                <marker date="1533820070377" expanded="true" signature="143:554" ph="{...}" />
-                <marker date="1533820070377" expanded="true" signature="192:552" ph="{...}" />
-                <marker date="1533820070377" expanded="true" signature="314:372" ph="{...}" />
-                <marker date="1533820070377" expanded="true" signature="450:546" ph="{...}" />
+                <marker date="1533927844750" expanded="true" signature="6:180" ph="..." />
+                <marker date="1533927844750" expanded="true" signature="231:944" ph="{...}" />
+                <marker date="1533927844750" expanded="true" signature="280:942" ph="{...}" />
+                <marker date="1533927844750" expanded="true" signature="472:597" ph="{...}" />
+                <marker date="1533927844750" expanded="true" signature="704:762" ph="{...}" />
+                <marker date="1533927844750" expanded="true" signature="840:936" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/Models/Game.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <folding>
+                <marker date="1533924809718" expanded="true" signature="45:92" ph="{...}" />
+                <marker date="1533924809718" expanded="true" signature="69:90" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NintendoService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/Services/NintendoService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+              <folding>
+                <marker date="1533924404800" expanded="true" signature="6:155" ph="..." />
+                <marker date="1533924404800" expanded="true" signature="204:1194" ph="{...}" />
+                <marker date="1533924404800" expanded="true" signature="258:1192" ph="{...}" />
+                <marker date="1533924404800" expanded="true" signature="350:601" ph="{...}" />
+                <marker date="1533924404800" expanded="true" signature="412:522" ph="{...}" />
+                <marker date="1533924404800" expanded="true" signature="665:1014" ph="{...}" />
+                <marker date="1533924404800" expanded="true" signature="724:892" ph="{...}" />
+                <marker date="1533924404800" expanded="true" signature="1079:1186" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -129,12 +123,18 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/ViewModels/GamesViewModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MvvmCross.NintendoGames/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/Services/INintendoService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/Services/NintendoService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/App.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/Models/Game.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/App.cs" />
+        <option value="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/Services/INintendoService.cs" />
+        <option value="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/Services/NintendoService.cs" />
+        <option value="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/Models/Game.cs" />
         <option value="$PROJECT_DIR$/MvvmCross.NintendoGames.Core/ViewModels/GamesViewModel.cs" />
       </list>
     </option>
@@ -148,17 +148,17 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1441" />
-    <option name="y" value="65" />
-    <option name="width" value="1486" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="829" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -182,6 +182,27 @@
               <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="0 - Core" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="MvvmCross.NintendoGames.Core" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="0 - Core" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MvvmCross.NintendoGames.Core" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="0 - Core" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MvvmCross.NintendoGames.Core" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Services" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="0 - Core" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MvvmCross.NintendoGames.Core" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="ViewModels" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
@@ -198,13 +219,6 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="1 - Application" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="MvvmCross.NintendoGames" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="App.xaml" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="2 - Infrastructure" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
@@ -216,19 +230,22 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="3 - EntryPoints" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="2 - Infrastructure" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MvvmCross.NintendoGames.Infrastructure" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="2 - Infrastructure" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MvvmCross.NintendoGames.Infrastructure" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name=".NETStandard 2" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="3 - EntryPoints" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="MvvmCross.NintendoGames.Android" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="MvvmCross.NintendoGames (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="3 - EntryPoints" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="MvvmCross.NintendoGames.iOS" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -236,7 +253,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,7 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Xamarin.Android.Android Default">
+  <component name="RunManager" selected="Xamarin.iOS.iOS Default">
     <configuration name="Android Default" type="XamarinAndroidProject" factoryName="Xamarin.Android">
       <option name="PROJECT_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -265,11 +281,11 @@
       <option name="DEFAULT_DEVICE_TO_RUN" value="" />
     </configuration>
     <configuration name="iOS Default" type="XamarinIOSProject" factoryName="Xamarin.iOS">
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MvvmCross.NintendoGames.iOS/MvvmCross.NintendoGames.iOS.csproj" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="DEFAULT_IPHONE_DEVICE" value="" />
       <option name="DEFAULT_IPHONE_SIMULATOR" value="" />
-      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Ask" />
+      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Simulator" />
     </configuration>
     <list>
       <item itemvalue="Xamarin.Android.Android Default" />
@@ -286,12 +302,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533816910010</updated>
-      <workItem from="1533816912850" duration="1012000" />
+      <workItem from="1533816912850" duration="4252000" />
+      <workItem from="1533923862021" duration="1591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1012000" />
+    <option name="totallyTimeSpent" value="5843000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -303,31 +320,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1441" y="65" width="1486" height="1056" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="829" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="0" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info active="true" anchor="right" content_ui="combo" x="2523" y="161" width="360" height="755" id="Project" order="5" visible="true" weight="0.2422611" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32980132" />
+      <window_info active="true" anchor="right" content_ui="combo" x="2523" y="161" width="360" height="755" id="Project" order="5" visible="true" weight="0.24305555" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.400818" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,26 +355,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/ViewModels/GamesViewModel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding>
-            <marker date="1533820070377" expanded="true" signature="6:92" ph="..." />
-            <marker date="1533820070377" expanded="true" signature="143:554" ph="{...}" />
-            <marker date="1533820070377" expanded="true" signature="192:552" ph="{...}" />
-            <marker date="1533820070377" expanded="true" signature="314:372" ph="{...}" />
-            <marker date="1533820070377" expanded="true" signature="450:546" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/App.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
           <folding>
-            <marker date="1533819923179" expanded="true" signature="6:109" ph="..." />
+            <marker date="1533819923179" expanded="false" signature="6:109" ph="..." />
             <marker date="1533819923179" expanded="true" signature="149:457" ph="{...}" />
             <marker date="1533819923179" expanded="true" signature="189:455" ph="{...}" />
             <marker date="1533819923179" expanded="true" signature="237:449" ph="{...}" />
@@ -365,17 +368,117 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/ViewModels/GamesViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <marker date="1533927844750" expanded="true" signature="6:180" ph="..." />
+            <marker date="1533927844750" expanded="true" signature="231:944" ph="{...}" />
+            <marker date="1533927844750" expanded="true" signature="280:942" ph="{...}" />
+            <marker date="1533927844750" expanded="true" signature="472:597" ph="{...}" />
+            <marker date="1533927844750" expanded="true" signature="704:762" ph="{...}" />
+            <marker date="1533927844750" expanded="true" signature="840:936" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames/App.xaml.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="210">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
           <folding>
-            <marker date="1533815970373" expanded="false" signature="6:60" ph="..." />
-            <marker date="1533815970373" expanded="true" signature="155:650" ph="{...}" />
-            <marker date="1533815970373" expanded="true" signature="200:648" ph="{...}" />
-            <marker date="1533815970373" expanded="true" signature="227:322" ph="{...}" />
-            <marker date="1533815970373" expanded="true" signature="365:428" ph="{...}" />
-            <marker date="1533815970373" expanded="true" signature="471:534" ph="{...}" />
-            <marker date="1533815970373" expanded="true" signature="578:642" ph="{...}" />
+            <marker date="1533822624829" expanded="false" signature="6:60" ph="..." />
+            <marker date="1533822624829" expanded="true" signature="155:611" ph="{...}" />
+            <marker date="1533822624829" expanded="true" signature="200:609" ph="{...}" />
+            <marker date="1533822624829" expanded="true" signature="227:283" ph="{...}" />
+            <marker date="1533822624829" expanded="true" signature="326:389" ph="{...}" />
+            <marker date="1533822624829" expanded="true" signature="432:495" ph="{...}" />
+            <marker date="1533822624829" expanded="true" signature="539:603" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <marker date="1533822624829" expanded="false" signature="6:60" ph="..." />
+            <marker date="1533822624829" expanded="true" signature="155:611" ph="{...}" />
+            <marker date="1533822624829" expanded="true" signature="200:609" ph="{...}" />
+            <marker date="1533822624829" expanded="true" signature="227:283" ph="{...}" />
+            <marker date="1533822624829" expanded="true" signature="326:389" ph="{...}" />
+            <marker date="1533822624829" expanded="true" signature="432:495" ph="{...}" />
+            <marker date="1533822624829" expanded="true" signature="539:603" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/Services/INintendoService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1533924392762" expanded="true" signature="6:89" ph="..." />
+            <marker date="1533924392762" expanded="true" signature="138:289" ph="{...}" />
+            <marker date="1533924392762" expanded="true" signature="178:287" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/Services/NintendoService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <marker date="1533924404800" expanded="true" signature="6:155" ph="..." />
+            <marker date="1533924404800" expanded="true" signature="204:1194" ph="{...}" />
+            <marker date="1533924404800" expanded="true" signature="258:1192" ph="{...}" />
+            <marker date="1533924404800" expanded="true" signature="350:601" ph="{...}" />
+            <marker date="1533924404800" expanded="true" signature="412:522" ph="{...}" />
+            <marker date="1533924404800" expanded="true" signature="665:1014" ph="{...}" />
+            <marker date="1533924404800" expanded="true" signature="724:892" ph="{...}" />
+            <marker date="1533924404800" expanded="true" signature="1079:1186" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/App.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <folding>
+            <marker date="1533819923179" expanded="false" signature="6:109" ph="..." />
+            <marker date="1533819923179" expanded="true" signature="149:457" ph="{...}" />
+            <marker date="1533819923179" expanded="true" signature="189:455" ph="{...}" />
+            <marker date="1533819923179" expanded="true" signature="237:449" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/Models/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1533924809718" expanded="true" signature="45:92" ph="{...}" />
+            <marker date="1533924809718" expanded="true" signature="69:90" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvvmCross.NintendoGames.Core/ViewModels/GamesViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <marker date="1533927844750" expanded="true" signature="6:180" ph="..." />
+            <marker date="1533927844750" expanded="true" signature="231:944" ph="{...}" />
+            <marker date="1533927844750" expanded="true" signature="280:942" ph="{...}" />
+            <marker date="1533927844750" expanded="true" signature="472:597" ph="{...}" />
+            <marker date="1533927844750" expanded="true" signature="704:762" ph="{...}" />
+            <marker date="1533927844750" expanded="true" signature="840:936" ph="{...}" />
           </folding>
         </state>
       </provider>
